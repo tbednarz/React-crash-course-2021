@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+This is my final project from following Travery Medias' React JS Crash Course 2021. 
+
+## Link to video
+[link](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
